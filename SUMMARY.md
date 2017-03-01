@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Test strategy](chapter1.md)
+* [Test scenarios](test-scenarios.md)
+
