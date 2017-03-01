@@ -2,7 +2,5 @@
 
 This is a test plan for testing WordPress Android Native app publishing user flow.
 
-
-
-![](/assets/sauce_tunnel.jpg)
+![](/assets/github.png)
 
