@@ -1,6 +1,12 @@
 # WordPress [Android App](https://github.com/wordpress-mobile/WordPress-Android) Test Plan
 
-#### This Test Plan is for the feature of publishing a new post with an image gallery.![](/assets/Screen Shot 2017-03-03 at 9.50.47 AM.png)
+---
+
+#### This Test Plan is only for testing the feature of
+
+* #### publishing a new post with an image gallery on Android platform
+
+![](/assets/Screen Shot 2017-03-03 at 1.31.11 PM.png)
 
 
 
