@@ -29,11 +29,18 @@
 * Click on Gallery settings from Edit gallery page, try different options in **Image Order**
 
 * Click on Gallery settings from Edit gallery page, try different options in **Type**
-* Click on Gallery settings from Edit gallery page, select **Thumbnail grid** in Type, try different options in **Number of columns**
-* 
-#### Misc mobile related
 
+* Click on Gallery settings from Edit gallery page, select **Thumbnail grid** in Type, try different options in **Number of columns**
+
+#### Edit in post
+
+* Manually edit image ID from post editor
+* Manually add/remove image ID from post editor
+* Copy the gallery context and paste the same gallery context twice
+
+* #### Misc mobile related
 * Check both horizontal and portrait mode
+
 * Try with different system language settings
 * While editing image gallery, a phone call comes in
 * Select some images in media gallery inventory, then quite the app
