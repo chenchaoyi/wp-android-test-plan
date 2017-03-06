@@ -10,5 +10,4 @@
   * [Permissions](test-scenarios/permissions.md)
   * [Miscellaneous mobile related](test-scenarios/miscellaneous-mobile-related.md)
 * [Test automation](2.md)
-* [aaa](test-scenarios/key-user-flow.md)
 
