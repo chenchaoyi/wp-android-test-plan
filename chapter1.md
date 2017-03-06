@@ -4,7 +4,7 @@
 
 **WordPress Android app** is a 100% [open source project](https://github.com/wordpress-mobile/WordPress-Android), the majority of the exploratory testing will be depended on dogfooding.
 
-The **complete test scenarios** in this test plan are intended to serve as a reference or guidance to inspire test ideas. It is not designed to be strictly followed while performing the test, but mostly as a reference resource among different teams, with better visibility.
+The **complete test scenarios** in this test plan are intended to serve as a reference or guidance to inspire test ideas. They are not designed to be strictly followed while performing the test, but mostly as a reference resource among different teams, with better visibility.
 
 The **key user flows** identified by this test plan will be performed before each release, and 100% covered in test automation, ideally to be enforced as Pull Request verification too.
 
