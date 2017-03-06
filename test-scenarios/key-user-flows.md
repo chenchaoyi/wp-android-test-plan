@@ -3,8 +3,8 @@
 ---
 #### Key user flows
 
-* Publish a new post with valid title, text content and a image gallery of two jpg images in it
-* After select two images, click on the `Add media` (+) menu again, deselect one previously selected image and select a new image
+* [C001] Publish a new post with valid title, text content and a image gallery of two jpg images in it
+* [C002] After select two images, click on the `Add media` (+) menu again, deselect one previously selected image and select a new image
 
 
 
