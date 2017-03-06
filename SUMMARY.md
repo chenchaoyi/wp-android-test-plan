@@ -8,6 +8,7 @@
   * [Edit post](test-scenarios/edit-post.md)
   * [Image variant](test-scenarios/image-variant.md)
   * [Permissions](test-scenarios/permissions.md)
+  * [Post settings](test-scenarios/post-settings.md)
   * [Miscellaneous mobile related](test-scenarios/miscellaneous-mobile-related.md)
 * [Test automation](2.md)
 
