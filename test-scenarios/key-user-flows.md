@@ -6,3 +6,6 @@
 * [C003] Publish a new post with multiple image galleries, each with a different gallery setting
 
 
+**_Detailed flow screenshots and elements to be verified to be added soon._
+**
+
