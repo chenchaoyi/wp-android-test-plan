@@ -8,19 +8,11 @@
 
 * Publish a new post with an regular inserted photo, and a image gallery of multiple images
 
-
-
-#### Image variant
-
 * Publish a new post with an empty image gallery
 
-* Publish a new post with an image gallery of 1 jpg, 1jpeg, 1 png, 1 gif images in it
+* Publish a new post with a image gallery of 1 jpg, 1jpeg, 1png, 1gif images in it
 
-* Select an image with very long file name
-* Select an image with unicode in the file name
-* Select an invalid image (manually change the extension of a text file to .jpg and uploaded it to media library from desktop)
-* Select more than 20 images
-
+* From post editor, toggle HTML mode, then try to insert media, verify warnings shows up
 
 #### Edit gallery
 
@@ -41,14 +33,14 @@
 * Click on Gallery settings from Edit gallery page, select **Thumbnail grid** in Type, try different options in **Number of columns**
 
 #### Edit in post
-* From post editor, toggle HTML mode, then try to insert media, verify warnings shows up
+
 * Manually edit image ID from post editor
 * Manually add/remove image ID from post editor
 * Copy the gallery context and paste the same gallery context twice
 
-#### Misc mobile related
+* #### Misc mobile related
 * Check both horizontal and portrait mode
-* Double tap add media toggle button quickly, check there is no duplicated view gets triggered
+
 * Try with different system language settings
 * While editing image gallery, a phone call comes in
 * Select some images in media gallery inventory, then quite the app
