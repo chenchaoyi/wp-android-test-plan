@@ -1,4 +1,4 @@
-# 07 - No Cancel option after the gallery creation process
+# 07 - No Done or Next option in the gallery creation process
 ----
 - **Severity:** Low
 - **Category:** Usability observation
