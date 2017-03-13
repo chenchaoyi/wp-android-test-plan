@@ -1,4 +1,4 @@
-# 05 - Too many options after click on 'add media'
+# 05 - Too many options after clicking on 'add media'
 ----
 - **Severity:** Low
 - **Category:** Usability observation

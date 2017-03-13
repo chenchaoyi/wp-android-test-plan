@@ -17,4 +17,7 @@
   * [03 - Previously added video in media library unable to be loaded](appendix-test-findings/03-previously-added-video-in-media-library-unable-to-be-loaded.md)
   * [04 - No Cancel option during the gallery creation process](appendix-test-findings/04-no-cancel-option-during-the-gallery-creation-process.md)
   * [05 - Too many options after click on 'add media'](appendix-test-findings/05-too-many-options-after-click-on-insert-media.md)
+  * [06 - Gallery settings not obvious](appendix-test-findings/06-gallery-settings-not-obvious.md)
+  * [07 - No Done option after the gallery creation process](appendix-test-findings/07-no-done-option.md)
+  * [08 - Reverse button unclear](appendix-test-findings/08-reverse-button-unclear.md)
 

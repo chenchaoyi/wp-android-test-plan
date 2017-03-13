@@ -3,7 +3,9 @@
 - **Severity:** Medium
 - **Category:** Usability observation
 
+Currently, there is no Cancel option after the user click on add media and start the gallery creation process.
 
+If a user decides to abort the process and go back to the new post, it still goes back the the `Edit gallery` step, even no image is selected, which is quite confusing.
 
-Add a video from Android app in a post. Then start a new post, try to create a image gallery, during the image selection, notice the video stays as `Loading...` forever.
+![](/assets/nocancel.png)
 
