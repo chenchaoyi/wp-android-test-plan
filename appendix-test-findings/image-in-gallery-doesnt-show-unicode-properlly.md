@@ -4,6 +4,8 @@
 - **Category:** Feature bug
 
 
-Add an image with unicode (e.g.: `长名字.png`) in title from desktop browser. From Android app, create new post and try to create a new gallery, in the image selection, unicode title is not shown properly.
+Add an image with unicode in title (e.g.: `长名字.png`) from desktop browser. 
+
+From Android app, create a new post and try to insert a new image gallery. In the image selection, unicode title is not shown properly.
 
 ![](/assets/unicode.jpg)
