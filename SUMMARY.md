@@ -11,4 +11,8 @@
   * [Post settings](test-scenarios/post-settings.md)
   * [Miscellaneous mobile related](test-scenarios/miscellaneous-mobile-related.md)
 * [Test automation](2.md)
+* [Appendix: Test findings](appendix-test-findings.md)
+  * [01 - Image in gallery doesn't show unicode properlly](appendix-test-findings/image-in-gallery-doesnt-show-unicode-properlly.md)
+  * [02 - Tap Add Media toggle button twice creates two overlapped media selection list view](appendix-test-findings/02-tap-add-media-toggle-button-twice-creates-two-overlapped-selection-view.md)
+  * [03 - Previously added video in media library unable to be loaded](appendix-test-findings/03-previously-added-video-in-media-library-unable-to-be-loaded.md)
 
