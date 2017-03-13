@@ -11,4 +11,4 @@ Notice the Publish is disabled from desktop browser and there is a hint to ask f
 
 Log in from **Android app**, create a new post, and notice the **Publish** button is enabled contrary to the desktop behavior. After click on it, the post will be only saved to draft, instead of published. 
 
-This is very misleading. The user has to log in from desktop browser to find out what was the reason that the "published" posts are all just saved to draft.
+This is very misleading. It might take a while for the user to find out that all the "published" posts were still sitting as draft. The user has to log in from desktop browser to find out what was the reason that the "published" posts are all just saved to draft.
