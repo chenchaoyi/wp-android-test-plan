@@ -20,4 +20,5 @@
   * [06 - Gallery settings not obvious](appendix-test-findings/06-gallery-settings-not-obvious.md)
   * [07 - No Done option after the gallery creation process](appendix-test-findings/07-no-done-option.md)
   * [08 - Reverse button unclear](appendix-test-findings/08-reverse-button-unclear.md)
+  * [09 - Publish option enabled for account that hasn't confirmed email yet](appendix-test-findings/09-publish-option-enabled-for-account-that-hasnt-confirmed-email-yet.md)
 

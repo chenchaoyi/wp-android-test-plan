@@ -3,8 +3,8 @@
 - **Severity:** Low
 - **Category:** Usability observation
 
-After select image to be added to image gallery, the `Gallery setting` button at the bottom is not very obvious. Without the arrow on it in the first place, user hardly notices it has a pull up settings menu:
-![](/assets/gallerysetting.jpg) 
+The `REVERSE` button in Gallery settings is not clear to the user what it actually does. After clicking on it, there is no visual effect change to be seen, user will be likely to try it multiple times which could revert the effect and causes more confusion.
 
-After click on it, and pull down the menu, it will show the arrow. If we show this arrow in the first place, it will make it more obvious:
+And I not quite clear why only this option is all capital letters.
+
 ![](/assets/reverse.jpg)
