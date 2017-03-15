@@ -1,4 +1,4 @@
-## 02 - Tap 'Add Media' button twice creates two overlapped media selection list view
+## 02 - Tap 'Add Media' button twice creates two overlapped media options view
 ----
 - **Severity:** low
 - **Category:** Feature bug
