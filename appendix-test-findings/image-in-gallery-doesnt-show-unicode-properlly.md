@@ -1,4 +1,4 @@
-# 01 - Image in gallery doesn't show unicode properly
+# 01 - Media library doesn't show unicode filename properly
 ----
 - **Severity:** Medium
 - **Category:** Feature bug
